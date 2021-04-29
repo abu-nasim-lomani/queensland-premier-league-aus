@@ -1,0 +1,3 @@
+https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=133604
+
+https://www.thesportsdb.com/api/v1/json/1/search_all_leagues.php?c=Australia

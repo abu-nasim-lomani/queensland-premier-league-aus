@@ -1,0 +1,50 @@
+.notfound{
+    height: 200px;
+    width:400px;
+    background-color: skyblue;
+    margin:50px  auto;
+    padding:10px;
+    border:1px solid lightblue;
+    border-radius:10px
+}
+
+.notfound-header{
+    display:flex;
+    justify-content:space-between;
+}
+.notfound-cross{
+    color: red;
+    height:30px;
+    padding:2px;
+    width:15px;
+    background-color: #fff;
+    cursor: pointer;
+}
+.notfound-body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #fff;
+    border-radius:10px;
+}
+.error-icon{
+    font-size: 50px;
+    color:red;
+}
+.error-details{
+    font-size:50px;
+    margin-left:20px;
+    margin-right:100px;
+}
+.error-details h3{
+    font-weight: 400;
+    font-size:30px
+}
+.error-details h4{
+    font-weight: 300;
+    font-size:20px
+}
+.notfound-btn{
+    background-color: #fff;
+    width: 100%;
+}

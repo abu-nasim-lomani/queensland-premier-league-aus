@@ -1,0 +1,23 @@
+.league-details{
+    background-color:tomato;
+    padding:10px;
+    border-radius:10px;
+    color: aliceblue;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+@media (max-width: 800px) {
+    .league-details {
+      flex-direction: column;
+    }
+    .details{
+        text-align:center;
+    }
+  }
+
+
+.condition-image img{
+    width:350px;
+}
